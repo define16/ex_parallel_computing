@@ -1,0 +1,2 @@
+# ex_parallel_computing
+2018_2_parallel_computing_class
